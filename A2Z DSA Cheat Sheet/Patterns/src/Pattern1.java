@@ -1,5 +1,5 @@
 import java.util.Scanner;
-3public class SquarePattern {
+public class Pattern1 {
 
     public static void square(int a) {
         for(int i = 0 ; i < a ; i++) {
