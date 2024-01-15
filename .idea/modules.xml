@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/A2Z DSA Cheat Sheet/A2Z DSA Cheat Sheet.iml" filepath="$PROJECT_DIR$/A2Z DSA Cheat Sheet/A2Z DSA Cheat Sheet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A2Z DSA Cheat Sheet/BasicMath/BasicMath.iml" filepath="$PROJECT_DIR$/A2Z DSA Cheat Sheet/BasicMath/BasicMath.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-using-java.iml" filepath="$PROJECT_DIR$/DSA-using-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/A2Z DSA Cheat Sheet/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/A2Z DSA Cheat Sheet/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode_problems/leetcode_problems.iml" filepath="$PROJECT_DIR$/leetcode_problems/leetcode_problems.iml" />
