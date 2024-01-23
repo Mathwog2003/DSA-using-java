@@ -4,10 +4,7 @@ public class Armstrong {
     public static void main(String[] args) {
         // Write your code here
 
-        Scanner scanner = new Scanner(System.in);
-        int input = scanner.nextInt();
 
-        System.out.println(armstrong(input));
     }
     public static boolean armstrong(int N)
     {
