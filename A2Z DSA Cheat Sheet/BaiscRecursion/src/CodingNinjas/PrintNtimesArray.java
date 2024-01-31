@@ -1,6 +1,6 @@
 package CodingNinjas;
 
-public class PrintNtimes {
+public class PrintNtimesArray {
     public static int[] printNos(int x) {
         // Write Your Code Here
         return  printNos2(1,x);
