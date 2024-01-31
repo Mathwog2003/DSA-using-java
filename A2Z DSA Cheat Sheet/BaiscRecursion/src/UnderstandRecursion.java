@@ -1,17 +1,15 @@
 public class UnderstandRecursion {
     static int cnt = 0;
-    public static int recursion()
+    public static void recursion()
     {
         if(cnt <= 3)
         {
-            System.out.println(cnt);
-            cnt++;
-            recursion();
-            return cnt;
+            return;
         }
+        System.out.println(cnt);
+        cnt++;
+        recursion();
 
-
-        return 0;
     }
     public static void main(String args[])
     {
