@@ -2,11 +2,12 @@ public class UnderstandRecursion {
     static int cnt = 0;
     public static int recursion()
     {
-        if(cnt < 2)
+        if(cnt <= 3)
         {
-            System.out.println("hi");
+            System.out.println(cnt);
             cnt++;
             recursion();
+            return cnt;
         }
 
 
