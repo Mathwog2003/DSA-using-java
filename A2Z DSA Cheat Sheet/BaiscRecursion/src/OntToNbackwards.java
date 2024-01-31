@@ -1,4 +1,4 @@
-public class OntToN {
+public class OntToNbackwards {
     public static void print(int n)
     {
 //        if(i>n)
