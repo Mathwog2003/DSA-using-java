@@ -2,7 +2,7 @@ public class UnderstandRecursion {
     static int cnt = 0;
     public static void recursion()
     {
-        if(cnt <= 3)
+        if(cnt >= 3)
         {
             return;
         }
@@ -13,6 +13,6 @@ public class UnderstandRecursion {
     }
     public static void main(String args[])
     {
-        System.out.println(recursion());
+        recursion();
     }
 }
