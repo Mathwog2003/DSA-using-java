@@ -1,4 +1,4 @@
-public class FactorialUsingRecursion {
+public class FactorialUsingRecurison {
     public static long sumFirstN(long n) {
         // Write your code here.
         if(n == 0)
